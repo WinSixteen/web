@@ -1,2 +1,2 @@
 # myfirstwebsitedesign
-The first attempt at making something actually semi-acceptable as a Web1 stage
+This repository is my first attempt at creating a **decent** & semi-acceptable Web1 page

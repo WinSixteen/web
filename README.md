@@ -1,4 +1,4 @@
-# myfirstwebsitedesign
+# Website
 This repository is my first attempt at creating a **decent** & semi-acceptable Web1 page
 Planned to put all effort in after completing the Food mod for mc
 
